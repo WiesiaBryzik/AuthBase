@@ -1,0 +1,17 @@
+{
+  "name": "Passport",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-handlebars": "3.1.0",
+    "nodemon": "^1.19.4"
+  },
+  "repository": "git@github.com:WiesiaBryzik/AuthBase-31.4.git",
+  "author": "Wiesława Bryzik <wieslawa.bryzik@gmail.com>"
+}
